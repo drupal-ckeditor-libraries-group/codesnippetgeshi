@@ -1,0 +1,15 @@
+{
+  "name": "@drupal-ckeditor-libraries-group/codesnippetgeshi",
+  "description": "CKEditor 4 codesnippetgeshi plugin",
+  "keywords": ["ckeditor", "plugin", "codesnippetgeshi"],
+  "homepage": "https://ckeditor.com/cke4/addon/codesnippetgeshi",
+  "bugs": {
+    "url": "https://github.com/ckeditor/ckeditor4/issues"
+  },
+  "license" : "(GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1)",
+  "repository": {
+		"type": "git",
+    "url": "https://github.com/ckeditor/ckeditor4.git",
+    "directory": "plugins/codesnippetgeshi"
+	}
+}
